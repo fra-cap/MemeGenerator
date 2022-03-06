@@ -1,5 +1,6 @@
 # Exam #2: "Meme Generator"
 ## Student: s284739 CAPANO FRANCESCO 
+*NOTE : original exam repository at [https://github.com/polito-WA1-2021-exam/exam2-fra-cap](https://github.com/polito-WA1-2021-exam/exam2-fra-cap)*
 
 ## React Client Application Routes
 
