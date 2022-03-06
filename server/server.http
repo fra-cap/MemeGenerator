@@ -1,0 +1,5 @@
+
+DELETE http://localhost:3001/api/memes/delete/41
+
+###
+GET  http://localhost:3001/api/memes/48
